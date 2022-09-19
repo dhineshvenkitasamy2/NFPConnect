@@ -1,0 +1,17 @@
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\bin\Debug\netstandard2.0\NFPConnect.deps.json
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\bin\Debug\netstandard2.0\NFPConnect.dll
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\bin\Debug\netstandard2.0\NFPConnect.pdb
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.csproj.AssemblyReference.cache
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.AssemblyInfoInputs.cache
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.AssemblyInfo.cs
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.csproj.CoreCompileInputs.cache
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.dll
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\refint\NFPConnect.dll
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\NFPConnect.pdb
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\ref\NFPConnect.dll
+C:\Users\dvenkitasam2\source\repos\GIT\NfpConnectMobileApp\NFPConnect\NFPConnect\NFPConnect\obj\Debug\netstandard2.0\WebView.xaml.g.cs
